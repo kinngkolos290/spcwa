@@ -47,4 +47,4 @@ If it has been deleted, you can run the script using the command:
 npm start
 ```
 
-###### Created by  ```Driyasz (ZeltNamizake)```
+###### Created by  ```Destructor (kolosmywrld)```
