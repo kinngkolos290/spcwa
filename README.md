@@ -1,4 +1,4 @@
-# SPCWA ಣ ࡛ 🌙  𝗺𝗼𑄙꯭nli𝗴𝗵t  ֹ☆ 𓂃𝐷𝑅𝛫 🕷️
+# SPCWA ಣ ࡛ 🌙  Destructor  ֹ☆ 𓂃𝐷𝑅𝛫 🕷️
 Spam Pairing Code Whatsapp using Javascript and Nodejs
 <div align="center">
   <p>
